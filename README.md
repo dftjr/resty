@@ -1,31 +1,103 @@
-# Component Based UI
+# LAB - 26
 
-## Lab Requirements
+## Deployment Test
 
-Students will be creating and styling a Counter application. Look for the following attributes
+- [Codebox.io](https://codesandbox.io/p/github/dftjr/resty/draft/gallant-brook?file=%2Fsrc%2FApp.js)
 
-- `Header`, `Footer`, and `Counter` components to separate files
-- Properly `export` them as defaults
-- Import them into the `App` Component using ES6 `import` statement
-- Proper state management
-- Button Handlers
-  - Bonus if they can wire both buttons with one handler
+### Author
 
-### Grading Standards & Notes
+David Tusia
 
-- Features
-  - As noted
-- Code Quality
-  - Looking for proper class syntax.
-  - Good file naming and folder structure.
-  - Styles well written, using SASS variables/nesting and thought through beyond simple colors.
-- Testing
-  - Not Required
-- Deployment
-  - Code Sandbox only.
-- Documentation
-  - Quality README
+### Setup
 
-### Lab Assistance Notes
+- <code>npm i</code> - Required
 
-- The first and most important part of the lab assignment is to draw a process diagram of the starter code and state as events happen. Once the students understand that, they can move on.
+### Running the app
+- <code>npm start</code> - Required for local testing
+- This app does not hook up to a live server. Please run locally or in Codebox.io link above to view the webpage and actions.
+
+### Tests
+
+- No tests required for this lab.
+
+### UML
+
+<img src="./img/lab-26-uml.jpg" alt="Terminal Testing Image" width="400"/>
+
+# LAB - 27
+
+## Deployment Test
+
+- [Codebox.io](https://codesandbox.io/p/github/dftjr/resty/draft/gallant-brook?file=%2Fsrc%2FApp.js)
+
+### Author
+
+David Tusia
+
+### Setup
+
+- <code>npm i</code> - Required
+
+### Running the app
+- <code>npm start</code> - Required for local testing
+- This app does not hook up to a live server. Please run locally or in Codebox.io link above to view the webpage and actions.
+
+### Tests
+
+- No tests required for this lab.
+
+### UML
+
+<img src="./img/lab-26-uml.jpg" alt="Terminal Testing Image" width="400"/>
+
+# LAB - 28
+
+## Deployment Test
+
+- [Codebox.io](https://codesandbox.io/p/github/dftjr/resty/draft/gallant-brook?file=%2Fsrc%2FApp.js)
+
+### Author
+
+David Tusia
+
+### Setup
+
+- <code>npm i</code> - Required
+
+### Running the app
+- <code>npm start</code> - Required for local testing
+- This app does not hook up to a live server. Please run locally or in Codebox.io link above to view the webpage and actions.
+
+### Tests
+
+- No tests required for this lab.
+
+### UML
+
+<img src="./img/lab-26-uml.jpg" alt="Terminal Testing Image" width="400"/>
+
+# LAB - 29
+
+## Deployment Test
+
+- [Codebox.io](https://codesandbox.io/p/github/dftjr/resty/draft/gallant-brook?file=%2Fsrc%2FApp.js)
+
+### Author
+
+David Tusia
+
+### Setup
+
+- <code>npm i</code> - Required
+
+### Running the app
+- <code>npm start</code> - Required for local testing
+- This app does not hook up to a live server. Please run locally or in Codebox.io link above to view the webpage and actions.
+
+### Tests
+
+- No tests required for this lab.
+
+### UML
+
+<img src="./img/lab-26-uml.jpg" alt="Terminal Testing Image" width="400"/>
